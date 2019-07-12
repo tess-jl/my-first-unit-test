@@ -1,6 +1,6 @@
 // Where our function lives
-function add() {
-
+function add(x,y) {
+    return x + y;
 }
 
 export default add;
